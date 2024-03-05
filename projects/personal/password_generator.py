@@ -2,7 +2,7 @@
 import random
 
 # all possible characters to be used for generated password
-letters = "abcdefghijklmnopqrstuvwxyz"
+letters = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
 numbers = "1234567890"
 special_characters = "!@#$*"
 
