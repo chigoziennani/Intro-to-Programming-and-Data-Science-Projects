@@ -1,4 +1,4 @@
-"""A simple complex-password generator based on user input created by Chigozie Nnani."""
+"""PassGen - A simple complex-password generator based on user input created by Chigozie Nnani."""
 import random
 
 # all possible characters to be used for generated password
