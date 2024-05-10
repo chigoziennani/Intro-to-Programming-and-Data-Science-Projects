@@ -1,6 +1,6 @@
-# Python-Programming-Exercises
+# Introduction to Programming and Data Science Projects
 
-This repository contains a series of Python programming exercises aimed at beginners to help them grasp fundamental concepts. Each exercise focuses on a specific topic and includes a description of the goal and the techniques involved. Below is a breakdown of the exercises:
+This repository contains all the files for the Python programming exercises from the University of North Carolina at Chapel Hill's Introduction to Programming and Data Science class (COMP110), led by Alyssa Lytle. Each assignment focuses on a specific topic and includes a description of the goal and the techniques involved. Below is a breakdown of the exercises:
 
 ## EX00: Hello, World!
 
